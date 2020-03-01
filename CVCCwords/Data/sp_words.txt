@@ -1,0 +1,5 @@
+cusp
+gasp
+lisp
+wisp
+rasp
